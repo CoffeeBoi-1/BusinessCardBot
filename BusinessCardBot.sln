@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandingBot", "LandingBot\LandingBot.csproj", "{34A817BD-41D1-4B73-AECA-2DAFFF3803A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A817BD-41D1-4B73-AECA-2DAFFF3803A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A817BD-41D1-4B73-AECA-2DAFFF3803A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A817BD-41D1-4B73-AECA-2DAFFF3803A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A817BD-41D1-4B73-AECA-2DAFFF3803A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A43C0D32-A9B5-4FDB-AB56-72395C701468}
+	EndGlobalSection
+EndGlobal

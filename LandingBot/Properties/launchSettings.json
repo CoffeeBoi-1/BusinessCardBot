@@ -1,0 +1,26 @@
+{
+  "profiles": {
+    "Telegram.Bot.Examples.WebHook": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://localhost:8443",
+        "BotConfiguration:BotToken": "",
+        "BotConfiguration:HostAddress": "",
+        "BotConfiguration:Route": "",
+        "BotConfiguration:SecretToken": "",
+        "ConnectionString": "Server=localhost;Database=callbacker;UID=root;PWD=;",
+        "PaymentProviderToken": ""
+      },
+      "applicationUrl": "https://0.0.0.0.0:5001;http://0.0.0.0.0:5000"
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "https://0.0.0.0.0:5001;http://0.0.0.0.0:5000",
+      "sslPort": 44315
+    }
+  }
+}
